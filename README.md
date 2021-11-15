@@ -1,1 +1,3 @@
 # cheatsheet
+
+An ongoing collection of Mathematic and other functions. Useful for coding...
